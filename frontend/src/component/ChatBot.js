@@ -27,7 +27,7 @@ const Chatbot = ({ files }) => {
             formData.append('message', userMessage);
             files.forEach(file => formData.append('files', file));
 
-            const response = await fetch('http://localhost:3001/api/chat', {
+            const response = await fetch('https://chatbot-ecommerce-ixsz.onrender.com/api/chat', {
                 method: 'POST',
                 body: formData,
             });
