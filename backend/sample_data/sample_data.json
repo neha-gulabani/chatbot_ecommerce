@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Earphones",
+            "category": "Audio",
+            "price": 29.99,
+            "brand": "SoundMagic",
+            "description": "High-quality wireless earphones with noise cancellation.",
+            "rating": 4.5,
+            "stock": 120
+        },
+        {
+            "id": 2,
+            "name": "Portable Power Bank",
+            "category": "Accessories",
+            "price": 19.99,
+            "brand": "ChargePro",
+            "description": "10000mAh power bank with dual USB ports and fast charging support.",
+            "rating": 4.3,
+            "stock": 80
+        },
+        {
+            "id": 3,
+            "name": "Smart Watch",
+            "category": "Wearables",
+            "price": 49.99,
+            "brand": "SmartFit",
+            "description": "Feature-packed smartwatch with fitness tracking and app integration.",
+            "rating": 4.6,
+            "stock": 60
+        },
+        {
+            "id": 4,
+            "name": "iWatch Series 8",
+            "category": "Wearables",
+            "price": 399.99,
+            "brand": "Apple",
+            "description": "Latest Apple iWatch with advanced health monitoring features.",
+            "rating": 4.8,
+            "stock": 40
+        },
+        {
+            "id": 5,
+            "name": "Bluetooth Speaker",
+            "category": "Audio",
+            "price": 35.99,
+            "brand": "BoomBox",
+            "description": "Portable Bluetooth speaker with rich sound and deep bass.",
+            "rating": 4.4,
+            "stock": 100
+        },
+        {
+            "id": 6,
+            "name": "Wireless Charger",
+            "category": "Accessories",
+            "price": 24.99,
+            "brand": "QuickCharge",
+            "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+            "rating": 4.7,
+            "stock": 75
+        },
+        {
+            "id": 7,
+            "name": "Noise-Cancelling Headphones",
+            "category": "Audio",
+            "price": 99.99,
+            "brand": "Silencio",
+            "description": "Premium over-ear headphones with industry-leading noise cancellation.",
+            "rating": 4.9,
+            "stock": 50
+        },
+        {
+            "id": 8,
+            "name": "Fitness Tracker",
+            "category": "Wearables",
+            "price": 29.99,
+            "brand": "FitTrack",
+            "description": "Affordable fitness tracker with heart rate monitoring and sleep tracking.",
+            "rating": 4.2,
+            "stock": 110
+        },
+        {
+            "id": 9,
+            "name": "Tablet Stand",
+            "category": "Accessories",
+            "price": 14.99,
+            "brand": "DeskMate",
+            "description": "Adjustable tablet stand for hands-free viewing and working.",
+            "rating": 4.3,
+            "stock": 150
+        },
+        {
+            "id": 10,
+            "name": "Gaming Mouse",
+            "category": "Peripherals",
+            "price": 39.99,
+            "brand": "GamerPro",
+            "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
+            "rating": 4.6,
+            "stock": 70
+        }
+    ]
+}
